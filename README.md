@@ -21,10 +21,7 @@
 
 ## Features
 
-- __Caching__ - Prison Escape will cache as much data as possible, so you don't have to wait for it to download the same data over and over again. 
-- __4 Different export formats__ - PDF, CBZ, ZIP and plain images
-- __Fast?__ - YES.
-- __Cross-Platform__ - Linux, macOS, Windows, Termux, even your toaster. (¬‿¬ )
+Work in Progress
 
 ## Installation
 
