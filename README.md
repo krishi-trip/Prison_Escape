@@ -1,5 +1,3 @@
-# Prison_Escape
-
 
 <h1 align="center">
 <strong>Prison Escape</strong>
@@ -18,7 +16,7 @@
 
 <p align="center">
 <!--     <img alt="Mangal 4 TUI" src="assets/tui.gif"> -->
-    <img alt="Escape" src="images/esc.jpg" width="600">
+    <img alt="Escape" src="images/esc.svg" width="600">
 </p>
 
 ## Features
